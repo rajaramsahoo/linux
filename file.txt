@@ -1,1 +1,2 @@
 my 2nd commit
+i pushed it to git 
